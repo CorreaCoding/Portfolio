@@ -1,3 +1,2 @@
-Portfólio - Curso de Iniciação à Computação
+Portfólio - Curso de Iniciação à Programação
 
-![LogoMinasProgramam](https://i.imgur.com/zYpUPvK.png)
